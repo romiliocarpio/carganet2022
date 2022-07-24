@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1  group-title="ListaTV", Glitz
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=339&f=.m3u8
+#EXTINF:-1  group-title="ListaTV", Gol Peru
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=340&f=.m3u8
+#EXTINF:-1  group-title="ListaTV", Wanner TV
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=341&f=.m3u8
+#EXTINF:-1  group-title="ListaTV", TyC Sport
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=258&f=.m3u8
+#EXTINF:-1  group-title="ListaTV", Caracol
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=259&f=.m3u8
+#EXTINF:-1  group-title="ListaTV", TeleMundo 52
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=271&f=.m3u8
+#EXTINF:-1  group-title="ListaTV", America TV
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=274&f=.m3u8
+#EXTINF:-1  group-title="ListaTV", TL Novela Univision
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=336&f=.m3u8
+#EXTINF:-1  group-title="ListaTV", Golden
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=202&f=.m3u8
+#EXTINF:-1  group-title="ListaTV", TUDN
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=205&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=176&f=.m3u8
+#EXTINF:-1  group-title="ListaTV", UNIMAS
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=105&f=.m3u8
+#EXTINF:-1  group-title="ListaTV", El Gourmet
+#EXTINF:-1  group-title="ListaTV", Tlnovelas
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=56&f=.m3u8
+#EXTINF:-1  group-title="ListaTV", Canal Estrellas
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=57&f=.m3u8
+#EXTINF:-1  group-title="ListaTV", Unicable
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=63&f=.m3u8
+#EXTINF:-1  group-title="ListaTV", Unimas
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=64&f=.m3u8
+#EXTINF:-1  group-title="ListaTV", Bein La Liga
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=23&f=.m3u8
+#EXTINF:-1  group-title="ListaTV", Fox Sports Premium
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=24&f=.m3u8
+#EXTINF:-1  group-title="ListaTV", DirectvSports
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=21&f=.m3u8
+#EXTINF:-1  group-title="ListaTV", GolTV
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=7&f=.m3u8
+#EXTINF:-1  group-title="ListaTV", WinSports
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=8&f=.m3u8
+#EXTINF:-1  group-title="ListaTV", TNT Sports
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=9&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_317022_/tv1.php?c=2&f=.m3u8
+#EXTINF:-1  group-title="ListaTV", TUDN
